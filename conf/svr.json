@@ -1,0 +1,8 @@
+{
+	"Host":"192.168.1.197",
+	"PmapHost":"192.168.1.197",
+	"MountPort":2049,
+	"NfsPort":2049,
+	"NfsaclPort":2049,
+	"loglvl":7,
+}
