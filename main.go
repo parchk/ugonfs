@@ -1,12 +1,12 @@
 package main
 
 import (
-	"NfsAgent/server"
+	"ugonfs/server"
 
-	_ "NfsAgent/gm"
-	"NfsAgent/mlog"
+	_ "ugonfs/gm"
+	"ugonfs/mlog"
 
-	"github.com/prashanthpai/sunrpc"
+	"github.com/parchk/sunrpc"
 )
 
 func main() {

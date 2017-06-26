@@ -1,9 +1,9 @@
 package gm
 
 import (
-	"NfsAgent/conf"
-	"NfsAgent/mlog"
 	"net/http"
+	"ugonfs/conf"
+	"ugonfs/mlog"
 )
 
 type gm_handle struct {
